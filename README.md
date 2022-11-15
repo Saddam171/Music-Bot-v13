@@ -1,11 +1,4 @@
-[![music bot v2](https://user-images.githubusercontent.com/74746579/193857533-7094bab4-192f-4e66-92c5-9b961524829b.png)](https://youtu.be/uDOZTsgyFNk)
-<div align="center">
-  <br>
 
-  <h3> Star the Project + Follow me on github </h3>
-
- <img src="https://user-images.githubusercontent.com/74746579/168328818-6995ed8d-915d-4083-9279-3d94e1d150c5.png" alt="help to star">
- </div>
            
 
 # Information
@@ -48,18 +41,14 @@
 
 
 ### Need help?
-If you need help! Feel free to join our [Support server](https://aromaxdev.xyz/discord)
+If you need help! Feel free to join our [Support server](https://discord.gg/TEMauza)
 
 
+# Social 
+<a href="https://instagram.com/rz.ung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rz.ung" height="30" width="40" /></a>
+[Instagram](https://www.instagram.com/rz.ung/)
 
-# Some image captured from bot
-
-![image](https://user-images.githubusercontent.com/74746579/193800380-723bfd6a-f7b2-48ec-98a4-c4a2a6c3e10c.png)
-
-![image](https://user-images.githubusercontent.com/74746579/193800689-325fe092-783a-4573-b95a-08b9c205723c.png)
-
-![image](https://user-images.githubusercontent.com/74746579/193800738-23036e21-3f0e-496b-96a8-22f48b2d7b93.png)
+<a href="https://discord.gg/! ᴏғᴘ ⚡ Resilient |ᴿᴶ 🇦🇷#0019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="! ᴏғᴘ ⚡ Resilient |ᴿᴶ 🇦🇷#0019" height="30" width="40" /></a>
+[Discord](https://discord.gg/TEMauza)
 
 
-### Music Package
-Made using [Poru](https://npmjs.com/poru) npm package
